@@ -16,5 +16,5 @@ year_in_tech() {
 }
 
 dream_job() {
-  echo "Dream Job: Cloud engineer."
+  echo "Dream Job: Cloud engineering."
 }
